@@ -4,7 +4,7 @@ import "locomotive-scroll/dist/locomotive-scroll.css";
 
 import Navbar from "./Components/Navbar";
 import Hero from "./Components/Hero";
-import Features from "./Components/feature";
+import Features from "./Components/Feature";
 import Services from "./Components/Services";
 import About from "./Components/About";
 import Contact from "./Components/Contact";
